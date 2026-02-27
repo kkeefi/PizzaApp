@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\bin\Debug\PizzaConstructor.exe.config
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\bin\Debug\PizzaConstructor.exe
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\bin\Debug\PizzaConstructor.pdb
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.exe
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.pdb
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.exe.config
+C:\Users\ADMIN\source\repos\MyFirstTask\MyFirstTask\PizzaConstructor\PizzaConstructor\obj\Debug\PizzaConstructor.Form1.resources
